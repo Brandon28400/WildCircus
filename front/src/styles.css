@@ -4,3 +4,8 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+h3{
+    text-align: center;
+    margin-bottom: 3%;
+}
