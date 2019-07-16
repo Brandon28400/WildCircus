@@ -9,3 +9,17 @@ h3{
     text-align: center;
     margin-bottom: 3%;
 }
+
+@font-face{
+    font-family: "Circus";
+    src: url("assets/Circus.ttf");
+}
+
+@font-face{
+    font-family: "Circus2";
+    src: url("assets/Circus2.ttf");
+}
+
+h1{
+    font-family: "Circus";
+}
