@@ -33,7 +33,7 @@ export class ContactComponent implements OnInit {
 
    this.emailService.sendmail(this.visitor).subscribe(
      () => {
-       alert("L'email a bien été envoyé !");
+       alert("Nouveau Message !");
      }
 
    );
@@ -41,6 +41,10 @@ export class ContactComponent implements OnInit {
  }
 
  ngOnInit() {
+ }
+
+ onSubmit(){
+
  }
 
 }

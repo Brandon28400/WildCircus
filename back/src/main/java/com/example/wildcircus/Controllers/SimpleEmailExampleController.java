@@ -32,7 +32,7 @@ public class SimpleEmailExampleController {
         SimpleMailMessage message = new SimpleMailMessage();
 
         message.setTo(Constants.FRIEND_EMAIL);
-        message.setSubject("Un nouveau client c'est inscrit !");
+        message.setSubject("Nouveau message !");
         message.setText(msg);
 
         this.emailSender.send(message);
