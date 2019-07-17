@@ -9,6 +9,8 @@ h1{
     justify-content: center;
     margin-top: 2%;
     margin-bottom: 2%;
+    background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+    border: 1px solid black;
 }
 
 .nav-link{
