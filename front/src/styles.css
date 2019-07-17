@@ -8,6 +8,9 @@ body{
 h3{
     text-align: center;
     margin-bottom: 3%;
+    font-family: "Circus2";
+    color: darkblue;
+    font-size: 300%;
 }
 
 @font-face{
@@ -18,6 +21,11 @@ h3{
 @font-face{
     font-family: "Circus2";
     src: url("assets/Circus2.ttf");
+}
+
+@font-face{
+    font-family: "Circus3";
+    src: url("assets/Bubblegum.ttf");
 }
 
 h1{
