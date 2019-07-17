@@ -1,0 +1,13 @@
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.myTable{
+    display: flex;
+    justify-content: center;
+}
+
+h4{
+    text-align: center;
+}

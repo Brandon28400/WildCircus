@@ -1,0 +1,9 @@
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.myTable{
+    display: flex;
+    justify-content: center;
+}
